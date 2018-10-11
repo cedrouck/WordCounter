@@ -1,0 +1,21 @@
+{
+  "name": "wordcounter",
+  "version": "1.0.0",
+  "description": "count the number of occurences in sentence",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha index.test.js"
+  },
+  "author": "cedric delfour",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cedrouck/WordCounter/issues"
+  },
+  "homepage": "https://github.com/cedrouck/WordCounter#readme",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
+  }
+}
